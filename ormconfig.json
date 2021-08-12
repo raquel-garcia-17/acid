@@ -11,7 +11,7 @@
         }
     },
     "entities": [
-        "dist/*/.entity{.ts,.js}"
+        "dist/**/*.entity{.ts,.js}"
     ],
     "synchronize": true
 }
